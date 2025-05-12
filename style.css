@@ -5,9 +5,13 @@ body{
 }
 #clock{
     height: 100px;
-    width: 200px;
+    width: 250px;
     background-color:#FF9F00;
     margin:auto;
-    margin-top: 300px;
+    margin-top: 250px;
     border-radius:20px;
+    color:aliceblue;
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
 }
